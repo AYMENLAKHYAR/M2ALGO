@@ -1,0 +1,13 @@
+Package: ProjAlgoKNN
+Type: Package
+Version: 0.1.0
+Date: 2024-04-12
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Description: Ce package implémente la classification KNN et KD-tree.
+Authors@R: person(given = "Aymen", family = "Lakhyar", role = c("aut", "cre"), email = "email@example.com")
+RoxygenNote: 7.3.1
+Title: M2algo
+Imports: Rcpp
+LinkingTo: Rcpp
